@@ -1,7 +1,7 @@
 
 ***
 
-# Welcome to The GUI_Interface_for_StudentManagementSystem's Repository (mild humour)!
+# Welcome to The GUI Interface for Student Management Systems Repository!
 
 ***
 
