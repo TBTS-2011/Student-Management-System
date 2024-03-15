@@ -1,7 +1,7 @@
 
 ***
 
-# Welcome to The python-PROJECTS-BETA-TESTING Repository!
+# Welcome to The GUI_Interface_for_StudentManagementSystem's Repository (mild humour)!
 
 ***
 
@@ -32,7 +32,7 @@
 
 ***
  
-![](https://e0.pxfuel.com/wallpapers/313/766/desktop-wallpaper-abstract-art-unique.jpg)
+![](https://media.istockphoto.com/id/1597475039/photo/abstract-colorful-glass-background.jpg?b=1&s=612x612&w=0&k=20&c=2v0jth_-61MZhZlt8EECpe5FLAZRhQxYRbXsc6VQuRo=)
 
 ### Arios Amigos!
 ### Powering off...
