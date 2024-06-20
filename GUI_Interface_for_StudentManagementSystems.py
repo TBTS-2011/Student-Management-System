@@ -8,7 +8,7 @@ main.title('Student Management System')
 main.geometry('1000x800')
 main.resizable(0, 0)
 
-lf_bg = 'Gray' 
+lf_bg = 'Gray'
 
 # Code for creating the StringVar or IntVar variables
 name_strvar = StringVar()
@@ -18,7 +18,7 @@ gender_strvar = StringVar()
 stream_strvar = StringVar()
 
 # Code for placing the components in the main window
-Label(main, text="Sudents GUI Interface", font='Arial', bg='White').pack(side=TOP, fill=X)
+Label(main, text="Sudents GUI Interface", font='Arial', bg='gray').pack(side=TOP, fill=X)
 left_frame = Frame(main, bg=lf_bg)
 left_frame.place(x=0, y=30, height=1050, width=400)
 right_frame = Frame(main, bg="gray")
@@ -43,16 +43,16 @@ def DateEntry():
 
 def dob():
   dob.place(x=180, y=250)
-  Button(left_frame, text='Submit and Add Record', font='Arial', width=25).place(x=50, y=380)
+  Button(left_frame, text='Submit and Add Record', font='Arial', width=25).place(x=50, y=360)
 
 # Placing components in the left frame
 Button(left_frame, text='Submit and Add Record', font='Arial', width=25).place(x=50, y=380)
 
 # Place the buttons in the left frame
 Button(left_frame, text='Delete Record', font='Arial', width=15).place(x=100, y=450)
-Button(left_frame, text='View Record', font='Arial', width=15).place(x=100, y=495) 
-Button(left_frame, text='Clear Fields', font='Arial', width=15).place(x=100, y=540)  
-Button(left_frame, text='Remove database', font='Arial', width=15).place(x=100, y=585)  
+Button(left_frame, text='View Record', font='Arial', width=15).place(x=100, y=495)
+Button(left_frame, text='Clear Fields', font='Arial', width=15).place(x=100, y=540)
+Button(left_frame, text='Remove database', font='Arial', width=15).place(x=100, y=585)
 
 # Placing components in the right frame
 Label(right_frame, text='Students Records', font='Arial', bg='LightGray', fg='Black').pack(side=TOP, fill=X)
