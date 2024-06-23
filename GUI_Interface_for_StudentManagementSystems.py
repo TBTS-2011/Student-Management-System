@@ -2,7 +2,7 @@
 from tkinter import *
 from tkinter import ttk
 
-# Cod3e for initializing the GUI window
+# Code for initializing the GUI window.
 main = Tk()
 main.title('Student Management System')
 main.geometry('1000x800')
@@ -10,21 +10,21 @@ main.resizable(0, 0)
 
 lf_bg = 'Gray'
 
-# Code for creating the StringVar or IntVar variables
+# Code for creating the StringVar or IntVar variables.
 name_strvar = StringVar()
 email_strvar = StringVar()
 contact_strvar = StringVar()
 gender_strvar = StringVar()
 stream_strvar = StringVar()
 
-# Code for placing the components in the main window
+# Code for placing the components in the main window.
 Label(main, text="Sudents GUI Interface", font='Arial', bg='gray').pack(side=TOP, fill=X)
 left_frame = Frame(main, bg=lf_bg)
 left_frame.place(x=0, y=30, height=1050, width=400)
 right_frame = Frame(main, bg="gray")
 right_frame.place(x=400, y=30, height=1000, width=600)
 
-# Placing components in the left frame
+# Placing components in the left frame.
 Label(left_frame, text="Name", font='Arial', bg=lf_bg).place(x=30, y=50)
 Label(left_frame, text="Contact Number", font='Arial', bg=lf_bg).place(x=30, y=100)
 Label(left_frame, text="Email Address", font='Arial', bg=lf_bg).place(x=30, y=150)
@@ -45,16 +45,16 @@ def dob():
   dob.place(x=180, y=250)
   Button(left_frame, text='Submit and Add Record', font='Arial', width=25).place(x=50, y=360)
 
-# Placing components in the left frame
+# Placing components in the left frame.
 Button(left_frame, text='Submit and Add Record', font='Arial', width=25).place(x=50, y=380)
 
-# Place the buttons in the left frame
+# Place the buttons in the left frame.
 Button(left_frame, text='Delete Record', font='Arial', width=15).place(x=100, y=450)
 Button(left_frame, text='View Record', font='Arial', width=15).place(x=100, y=495)
 Button(left_frame, text='Clear Fields', font='Arial', width=15).place(x=100, y=540)
 Button(left_frame, text='Remove database', font='Arial', width=15).place(x=100, y=585)
 
-# Placing components in the right frame
+# Placing components in the right frame.
 Label(right_frame, text='Students Records', font='Arial', bg='LightGray', fg='Black').pack(side=TOP, fill=X)
 tree = ttk.Treeview(right_frame, height=100, selectmode='browse',
                     columns=('Student ID', 'Name', 'Email Address', 'Contact No', 'Gender', 'Date of Birth', 'Stream/Feild'))
