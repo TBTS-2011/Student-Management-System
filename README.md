@@ -1,7 +1,5 @@
 # GUI Interface for Student Management Systems Repository
 
-# Welcome to the GUI_Interface_for_StudentManagementSystems.py wiki!
-
 ## About this application:
 
 This is a very simple application that is made with Python and is used for storing School/Collage student's bio data. The code can be edited/customized to allow data storage and manipulation using SQL. The version I recommend is the Latest release of MySQL database. This application only uses two modules; therefore, it is very flexible and can be easily edited without installing too many modules.
