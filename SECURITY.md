@@ -1,30 +1,29 @@
 # Security Policy:
 
-## Supported Versions
+### Vulnerability Management: 
+Regular security scans and updates are conducted to identify and patch vulnerabilities. Critical patches must be applied promptly.
 
-This section tells people about which versions of our project are
-currently being supported with security updates that would be updated along-
-side our terms and conditions, the chart below is a representation of what
-versions of our products are supported by our security policy.
+### Incident Response: 
+In case of a security incident, a predefined response plan is followed. An incident response plan outlines procedures for handling security incidents. It includes roles and responsibilities of incident response team members. This includes notifying affected parties, containing the incident, and conducting a post-incident review.
 
-The below is only a reference to our security policies, we will probably
-update them when any three of our issues are fixed. Don't worry! That will
-definitely happen soon!
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+### Reporting Incidents: 
+Everyone are encouraged to report security incidents promptly. They know how to recognize and respond to potential threats.
 
 ## Reporting a Vulnerability
 
  How to report a vulnerability:
 
- 1) You just need to go to our issues section pane and plot an issue there.
- 2) After plotting an issue, we will take it seriously and try to fix it.
+ 1) You just need to go to our issues section and add an issue there.
+ 2) After adding an issue, we will take it seriously and try to fix it.
 
 Just go through our profile, often you can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+declined and etc.
+
+### Patches:
+
+Critical security patches are promptly applied to applications, and network devices. A defined process ensures timely patching. Automated vulnerability scans are conducted regularly to identify security weaknesses. Vulnerability assessment tools check for outdated software, misconfigurations, and known vulnerabilities.
+
+| Versions | Supported          |
+| -------  | ------------------ |
+| 1.0.0    | :white_check_mark: |
