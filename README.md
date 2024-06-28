@@ -2,19 +2,19 @@
 
 ## About this application:
 
-This is a very simple application that is made with Python and is used for storing School/Collage student's bio data. The code can be edited/customised to allow data storage and manipulation using SQL. The version I recommend is the Latest release of MySQL database. This application only uses two modules, therefore, it is very flexible and can be easyl edited without installing too many modules.
+This is a very simple application that is made with Python and is used for storing School/Collage student's bio data. The code can be edited/customised to allow data storage and manipulation using SQL. The version I recommend is the Latest release of MySQL database. This application only uses two modules, therefore, it is very flexible and can be easily edited without installing too many modules.
 
 ### Contents:
 
 This program contains:
 
-- Buttons to (present in the left frame):
+- Buttons (present in the left frame) to:
   - Delete
   - View
   - Clear
   - Remove Databases, fields and records.
 
-- Columns the output the results (present in the right frame), such as: 
+- Columns (present in the right frame) that output the results, such as: 
 
   - Student ID
   - Name
@@ -23,8 +23,7 @@ This program contains:
   - Gender
   - DOB
   - Stream/Field
-The main theme of this application is white and gray, main font is Arial and this program has a built in scroll-bar.
- 
+
 ### Pathces:
 
 Updates and security patches will be provided regularly and maintainence of this program is gaurenteed.
