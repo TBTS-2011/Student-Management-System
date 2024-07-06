@@ -1,4 +1,4 @@
-# GUI Interface for Student Management Systems Repository
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="69" height="69" /> GUI Interface for Student Management Systems Repository
 
 ## About this application:
 
@@ -32,6 +32,6 @@ Updates and security patches will be provided regularly, and maintenance of this
 | -------  | ------------------ |
 | 1.0.0    | :white_check_mark: |
 
-### Preview:
+## Preview:
 
 ![Screenshot 2024-06-23 135847](https://github.com/TBTS-pvt-ltd-2011/GUI_Interface_for_StudentManagementSystems.py/assets/135034771/027c0b65-675b-42f2-b45a-86724e7d71dc)
