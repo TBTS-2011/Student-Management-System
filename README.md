@@ -1,10 +1,9 @@
 ## About this application:
-
-This is a very simple application that is made with Python and is used for storing School/Collage student's bio data. The code can be edited/customized to allow data storage and manipulation using SQL. The version I recommend is the Latest release of MySQL database. This application only uses two modules; therefore, it is very flexible and can be easily edited without installing too many modules.
+This is a very simple program that is made using Python and is used for storing School/Collage student's bio data. The code can be edited/customized and the server side can also be edited/customized to allow data storage, manipulation and adding extra feilds using SQL. The version we recommend you to use is the Latest release of MySQL database. This application only uses two packages; therefore, it is very flexible and can be easily customized without installing too many packages.
 
 ### Contents:
 
-This program contains:
+#### This program contains:
 
 - Buttons (present in the left frame) to:
   - Delete
@@ -23,8 +22,6 @@ This program contains:
   - Stream/Field
 
 ### Patches:
-
-Updates and security patches will be provided regularly, and maintenance of this program is guaranteed.
 
 | Versions | Supported          |
 | -------  | ------------------ |
