@@ -1,5 +1,5 @@
 ## About this application:
-This is a very simple program that is made using Python and is used for storing School/Collage student's bio data. The code can be edited/customized and the server side can also be edited/customized to allow data storage, manipulation and adding extra feilds using SQL. The version we recommend you to use is the Latest release of MySQL database. This application only uses two packages; therefore, it is very flexible and can be easily customized without installing too many packages.
+This is a very simple program that is made using Python and is used for storing School/college students' biodata. The code can be edited/customized and the server side can also be edited/customized to allow data storage, manipulation and adding extra fields using SQL. The version we recommend you to use is the Latest release of MySQL database. This application only uses two packages; therefore, it is very flexible and can be easily customized without installing too many packages.
 
 ### Contents:
 
