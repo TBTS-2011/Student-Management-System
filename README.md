@@ -1,9 +1,8 @@
-## About this application:
-This is a very simple program that is made using Python and is used for storing School/college students' biodata. The code can be edited/customized and the server side can also be edited/customized to allow data storage, manipulation and adding extra fields using SQL. The version we recommend you to use is the Latest release of MySQL database. This application only uses two packages; therefore, it is very flexible and can be easily customized without installing too many packages.
+# About this application:
 
-### Contents:
+This program constitutes a straightforward Python application designed for the purpose of managing and storing biodata for students in educational institutions. The versatile nature of the code allows for seamless customization of the server side to facilitate data storage, manipulation, and the incorporation of additional fields through SQL. Optimal performance and functionality are ensured by employing the latest iteration of the MySQL database. Notably, the application's minimal reliance on external packages renders it exceptionally flexible and easily adaptable, circumventing the need for an extensive package installation process.
 
-#### This program contains:
+## Contents:
 
 - Buttons (present in the left frame) to:
   - Delete
